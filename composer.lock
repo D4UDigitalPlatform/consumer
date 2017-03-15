@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "cd34070b1cade92ce7e2dc8f8e7c02fa",
-    "content-hash": "d9e1033875e1f90d2db73afe943b358d",
+    "hash": "ec34ee1e33c97ee37bac674eae481e40",
+    "content-hash": "0262feb2c361624d5ea9ad7fc33f47bd",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -788,7 +788,7 @@
         },
         {
             "name": "itkg/core",
-            "version": "1.1.3",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/D4UDigitalPlatform/itkg-core.git",
@@ -2351,7 +2351,9 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {
+        "itkg/core": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
