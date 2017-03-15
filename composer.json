@@ -11,6 +11,16 @@
             "email":    "itkg@interakting.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/D4UDigitalPlatform/itkg-consumer-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/D4UDigitalPlatform/itkg-consumer"
+        }
+    ],
     "require-dev": {
         "phpunit/phpunit": "3.7.*"
     },
