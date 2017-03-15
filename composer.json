@@ -19,6 +19,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/D4UDigitalPlatform/itkg-consumer"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/D4UDigitalPlatform/itkg-core"
         }
     ],
     "require-dev": {
