@@ -31,7 +31,7 @@
     "require": {
         "php": ">=5.3.3",
         "guzzle/guzzle": "~3",
-        "itkg/core": "~1",
+        "itkg/core": "dev-master",
         "symfony/options-resolver": "~2",
         "jms/serializer": "*",
         "fkooman/guzzle-bearer-auth-plugin": "0.2.*",
