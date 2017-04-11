@@ -1,7 +1,8 @@
 Webservice consumer library
 ===========================
 
-** ! Warning, this is a public fork of a project ! **
+**Warning, this is a public fork of a project !**
+
 
 [![Build Status](https://travis-ci.org/itkg/consumer.png?branch=2.0)](https://travis-ci.org/itkg/consumer)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/itkg/consumer/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/itkg/consumer/?branch=master)
